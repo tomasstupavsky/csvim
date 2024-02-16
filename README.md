@@ -1,6 +1,7 @@
-# Luke's vim helpers
+# CSVim
 
-Just some little things I source in my vimrc. Moving these from the [voidrice](https://github.com/lukesmithxyz/voidrice) repo for extensibility's sake. Mostly language-related.
+Skript pre textový editor VIM, ktorý umožňuje vpisovať mäkčene a dĺžne bez nutnosti prepínania na českú alebo slovenskú klávesnicu.
+Inšpirované skriptom `vimling` od (Lukáša Kováča)[https://lukesmith.xyz/] 
 
 ## Who's who?
 
